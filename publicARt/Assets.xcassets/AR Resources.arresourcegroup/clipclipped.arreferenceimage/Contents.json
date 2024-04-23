@@ -1,0 +1,16 @@
+{
+  "images" : [
+    {
+      "filename" : "clipclipped.png",
+      "idiom" : "universal"
+    }
+  ],
+  "info" : {
+    "author" : "xcode",
+    "version" : 1
+  },
+  "properties" : {
+    "unit" : "feet",
+    "width" : 0.49560632688927941
+  }
+}
