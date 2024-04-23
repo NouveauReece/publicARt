@@ -2,7 +2,9 @@
 //  ARModel.swift
 //  publicARt
 //
-//  Created by Reece Needham on 4/22/24.
+//  Created by Reece Needham
+//  Informatics Department
+//  Indiana University Bloomington
 //
 
 import Foundation
